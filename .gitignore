@@ -33,3 +33,8 @@ models/config-user.yaml
 
 .DS_Store
 Thumbs.db
+
+*coyude.exe 
+runTgwebui.bat 
+updateRequirements.bat
+launchSetting.json
